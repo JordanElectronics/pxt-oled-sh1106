@@ -1,0 +1,25 @@
+{
+    "name": "SH1106_OLED",
+    "version": "1.0.0",
+    "description": "Jordan Electronics package for SH1106 OLED controller",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "sh1106.ts",
+        "SH1106_OLED.cpp",
+        "Adafruit_SH1106.h",
+        "Adafruit_SH1106.cpp",
+        "Adafruit_GFX.h",
+        "Adafruit_GFX.cpp",
+        "Adafruit_GFX_Config.h",
+        "glcdfont.h",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}

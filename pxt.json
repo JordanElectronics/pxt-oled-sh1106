@@ -1,6 +1,6 @@
 {
     "name": "SH1106_OLED",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Jordan Electronics package for SH1106 OLED controller",
     "license": "MIT",
     "dependencies": {
